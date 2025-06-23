@@ -38,8 +38,6 @@ I'm a passionate developer who loves building real-world web applications and ex
   → Node.js backend + HTML/CSS frontend  
   → Features: Face attendance, emotion detection, cheating detection
 
-- ✅ **To-Do List Web App**  
-  → Simple and responsive using HTML, CSS, JS
 
 ---
 
